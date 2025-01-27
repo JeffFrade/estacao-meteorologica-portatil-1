@@ -28,7 +28,6 @@ As bibliotecas de terceiros utilizadas para desenvolver esse projeto estão dent
 - `Adafruit_BusIO`, `Adafruit_GFX`, `Adafruit_SSD1306`: Responsáveis pelo funcionamento do `Display OLED`.
 
 As demais bibliotecas utilizadas são bibliotecas disponibilizadas pela instalação padrão do `Arduino IDE` com importação dos pacotes do `ESP-32`.
-Link para instalação: ![Instalação ESP32 no Arduino IDE](https://embarcados.com.br/como-programar-o-esp32-na-arduino-ide/)
 
 ### Esquemático do Projeto
 ---
